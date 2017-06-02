@@ -20,7 +20,7 @@ class Calculo_Cubagem_Widget extends WP_Widget
 	}
 
 	/**
-	 * Outputs the content of the widget
+	 * Outputs the content of the widget cubagem
 	 *
 	 * @param array $args
 	 * @param array $instance
